@@ -1,1 +1,3 @@
 # platform
+
+hello friends
